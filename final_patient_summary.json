@@ -1,0 +1,41 @@
+{
+    "patient_information": {
+        "name": "Not Available",
+        "age": "Not Available",
+        "gender": "Not Available"
+    },
+    "chief_complaints": [
+        "Loose stools",
+        "Vomiting",
+        "Fatigue",
+        "Fever"
+    ],
+    "diagnoses": [
+        "Acute Gastroenteritis with Dehydration",
+        "Urinary Tract Infection"
+    ],
+    "past_medical_history": [
+        "Thyroid disorder on treatment"
+    ],
+    "vital_signs": {
+        "pulse": "89/min",
+        "blood_pressure": "130/80 mmHg",
+        "respiratory_rate": "20/min",
+        "spo2": "98% on room air"
+    },
+    "investigations": {
+        "creatinine": "1.65 mg/dL",
+        "sodium": "128 mmol/L",
+        "urine_ketones": "Positive",
+        "pus_cells": "Present",
+        "bacteria": "Present"
+    },
+    "treatment_given": [
+        "IV Fluids",
+        "Treatment for UTI"
+    ],
+    "pending_results": [
+        "Urine culture report awaited"
+    ],
+    "discharge_condition": "Stable"
+}

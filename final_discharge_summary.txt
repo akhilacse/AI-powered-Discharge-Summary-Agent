@@ -1,0 +1,26 @@
+
+DISCHARGE SUMMARY
+==================================================
+
+DIAGNOSES:
+Acute Gastroenteritis with Dehydration
+Urinary Tract Infection
+
+CHIEF COMPLAINTS:
+Loose stools
+Vomiting
+Fatigue
+Fever
+
+PAST MEDICAL HISTORY:
+Thyroid disorder on treatment
+
+TREATMENT GIVEN:
+IV Fluids
+Treatment for UTI
+
+PENDING RESULTS:
+Urine culture report awaited
+
+DISCHARGE CONDITION:
+Stable
